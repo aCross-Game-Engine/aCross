@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 500 250" xml:space="preserve">
+        <rect fill="#5d5595" x="0" y="0" width="71.42857142857143" height="220"/>,<rect fill="#2d5595" x="71.42857142857143" y="0" width="71.42857142857143" height="220"/>,<rect fill="#d99955" x="142.85714285714286" y="0" width="71.42857142857143" height="220"/>,<rect fill="#d99999" x="214.28571428571428" y="0" width="71.42857142857143" height="220"/>,<rect fill="#d5d5d5" x="285.7142857142857" y="0" width="71.42857142857143" height="220"/>,<rect fill="#525252" x="357.14285714285717" y="0" width="71.42857142857143" height="220"/>,<rect fill="#2d2d2d" x="428.57142857142856" y="0" width="71.42857142857143" height="220"/>
+        <text x="10" y="235" font-family="Arial" font-size="6" alignment-baseline="middle">aCross Game Engine - Work In Progress Color Palette Reference</text>
+        <text x="490" y="235" font-family="Arial" font-size="6" alignment-baseline="middle" text-anchor="end">#5d5595 #2d5595 #d99955 #d99999 #d5d5d5 #525252 #2d2d2d</text>
+      </svg>
