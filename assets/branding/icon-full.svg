@@ -29,8 +29,8 @@ Licensed under The Universal Permissive License (UPL), Version 1.0
  </defs>
  <g class="layer">
   <title>aCross Game Engine - Logo Glyph</title>
-  <path d="m1003,420.68l228.64,-230.68l82.66,314.1l-311.3,-83.41z" fill="#2d2d2d" id="svg_6" stroke="#000000"/>
-  <path d="m125,505l82.66,-314.1l228.64,230.68l-311.3,83.41z" fill="#2d2d2d" id="svg_1" stroke="#000000" transform="matrix(1 0 0 1 0 0)"/>
+  <path d="m1003,420.68l228.64,-230.68l82.66,314.1l-311.3,-83.41z" fill="#2d2d2d" id="svg_6"/>
+  <path d="m125,505l82.66,-314.1l228.64,230.68l-311.3,83.41z" fill="#2d2d2d" id="svg_1" transform="matrix(1 0 0 1 0 0)"/>
   <use id="svg_5" transform="matrix(1 0 0 1 0 0) matrix(0.971866 0 0 0.971866 1386.45 1092.33)" x="-1405.74" xlink:href="#svg_4" y="-1073.66"/>
   <use id="svg_14" transform="matrix(1.02455 0 0 1.02455 1387.99 960.774)" x="-1373.07" xlink:href="#svg_13" y="-977.61"/>
   <use fill="#c45858" id="svg_19" transform="matrix(1.34209 0 0 1.34209 273.343 257.996)" x="-383.47" xlink:href="#svg_18" y="-318.15"/>
