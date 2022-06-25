@@ -5,7 +5,7 @@ Licensed under The Universal Permissive License (UPL), Version 1.0
 (https://github.com/aCross-Game-Engine/aCross/blob/main/LICENSE.txt) 
 -->
 <svg width="1440" height="1440" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <title>aCross Game Engine - Icon Full</title>
+ <title>aCross Game Engine - Logo Glyph</title>
  <defs>
   <symbol id="svg_4" viewBox="15 30 66 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
    <g id="svg_2">
@@ -28,7 +28,6 @@ Licensed under The Universal Permissive License (UPL), Version 1.0
   </symbol>
  </defs>
  <g class="layer">
-  <title>aCross Game Engine - Logo Glyph</title>
   <path d="m1003,420.68l228.64,-230.68l82.66,314.1l-311.3,-83.41z" fill="#2d2d2d" id="svg_6"/>
   <path d="m125,505l82.66,-314.1l228.64,230.68l-311.3,83.41z" fill="#2d2d2d" id="svg_1" transform="matrix(1 0 0 1 0 0)"/>
   <use id="svg_5" transform="matrix(1 0 0 1 0 0) matrix(0.971866 0 0 0.971866 1386.45 1092.33)" x="-1405.74" xlink:href="#svg_4" y="-1073.66"/>
