@@ -18,6 +18,5 @@
   "homepage": "https://github.com/EhanAhamed/nord-bootstrap#readme",
   "private": true,
   "devDependencies": {
-    "electron": "^19.0.6"
   }
 }

@@ -1,4 +1,4 @@
-![aCross Game Engine](./assets/branding/gh/banner.png)
+![aCross Game Engine](./assets/branding/github/banner.png)
 
 aCross is a soon-to-be a game engine, currently under expirmentation, planning, and development.
 
