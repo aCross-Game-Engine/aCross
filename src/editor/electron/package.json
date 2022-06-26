@@ -1,0 +1,23 @@
+{
+  "name": "across-game-engine",
+  "version": "0.1.1",
+  "description": "a Cross-platform Game Engine",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EhanAhamed/nord-bootstrap.git"
+  },
+  "author": "Ehan Ahamed",
+  "license": "UPL-1.0",
+  "bugs": {
+    "url": "https://github.com/EhanAhamed/nord-bootstrap/issues"
+  },
+  "homepage": "https://github.com/EhanAhamed/nord-bootstrap#readme",
+  "private": true,
+  "devDependencies": {
+    "electron": "^19.0.6"
+  }
+}
