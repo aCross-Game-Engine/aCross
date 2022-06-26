@@ -23,7 +23,7 @@ Licensed under The Universal Permissive License (UPL), Version 1.0
   </symbol>
   <symbol id="svg_18" viewBox="15 30 66 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
    <g id="svg_16">
-    <path d="m46.6,46.6c-0.7,0 -1.4,0.6 -1.4,1.4s0.6,1.4 1.4,1.4l2.7,0c0.7,0 1.4,-0.6 1.4,-1.4s-0.6,-1.4 -1.4,-1.4l-2.7,0z" fill="#525252" id="svg_17"/>
+    <path d="m46.6,46.6c-0.7,0 -1.4,0.6 -1.4,1.4s0.6,1.4 1.4,1.4l2.7,0c0.7,0 1.4,-0.6 1.4,-1.4s-0.6,-1.4 -1.4,-1.4l-2.7,0z" fill="#d99999" id="svg_17"/>
    </g>
   </symbol>
  </defs>
